@@ -1,2 +1,2 @@
 # Data_Python_Titanic
-Very typical dataset to show some data preprocessing, analytic and visualization knowledge
+Manipulation of typical dataset to show  data preprocessing, analytic and visualization knowledge with Pandas, Numpy and Seaborn modules in Python
